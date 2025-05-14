@@ -1,7 +1,5 @@
 # Naskah_Sepuh_Asti
 
-Berikut adalah versi yang sudah diperbaiki dan disederhanakan dari catatan magang tersebut agar lebih mudah dipahami, dengan bahasa yang konsisten dan terstruktur:
-
 ---
 
 ### **Materi 1 & 2 – Membuat Akun GitHub (Selesai)**
